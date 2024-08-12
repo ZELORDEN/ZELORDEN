@@ -1,5 +1,4 @@
-hi, im zelorden, 19 y.o developer on:
-
+Zelorden, 19 y.o
 
 ➤ C# / Unity (application and game development)
 
@@ -7,7 +6,7 @@ hi, im zelorden, 19 y.o developer on:
 
 ➤ Python (bot, script, and application development)
 
-➤ GitHub (version control, repository management)
+➤ GitHub (repository management)
 
 ➤ AutoHotkey (script writing)
 <!---
