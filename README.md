@@ -1,6 +1,6 @@
 hi, im zelorden, 19 y.o developer on:
 
-➤ C# / Unity (application and game development)
+➤ C# / Unity (application and game development)\n
 ➤ HTML, CSS, JavaScript (web development)
 ➤ Python (bot, script, and application development)
 ➤ GitHub (version control, repository management)
